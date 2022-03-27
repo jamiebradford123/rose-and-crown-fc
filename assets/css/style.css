@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald:wght@300&display=swap');
+
 body {
-    color: black;
+    font-family: Lato, sans-serif;
+    font-weight: 200;
+}
+
+h1 {
+    font-size: 280%;
+    font-weight: 300;
 }
