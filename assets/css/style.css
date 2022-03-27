@@ -51,3 +51,13 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+#club-badge {
+    height: 600px;
+    width: 100%;
+    background: url(../images/roseandcrownlogo.JPG) no-repeat center center;
+}
+
+#club-badge-outer {
+    
+}
