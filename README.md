@@ -1,64 +1,62 @@
-# Love Running
+# The Rose and Crown FC
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+The Rose and Crown FC is a site that hopes to attract new players who are based in Hertfordshire to join the team. The site will be targeted towards people who enjoy playing football and are looking to play the game as well as socialise and keep fit. The site will provide information regarding the club as well as reasons as to why they should sign up. Contact information will also be provided so those interested can get in touch. 
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
-## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
+## Features
+ 
 ### Existing Features
-
+ 
 - __Navigation Bar__
-
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
+ 
+ - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Team, Fixtures and Sign Up page and is identical in each page to allow for easy navigation.
+ - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+ 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
-
+ 
 - __The landing page image__
-
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
-
+ 
+ - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
+ - This section introduces the user to The Rose and Crown FC with an eye catching animation to grab their attention
+ 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
+- __Intro to the Club section__
+ - Provides a brief overview of key information about the club such as the League they compete in, location, basic training and match details that can allow the user to decide if this club could suit them
+ 
+- __Reasons to Join section__
+ 
+ - The reasons to join section will allow the user to see the benefits of joining the Rose and Crown, as well as the benefits of playing football overall.
+ - This user will see the value of signing up for the Rose and Crown. This should encourage the user to consider playing for the club as their form of exercise and as a social experience.
+ 
+![Reasons to Join](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+ 
+- __Words from the Team__
+ 
+ - This section provides some words from the team about their experience playing for the Rose and Crown, including a quote from the club founder and the captain. This section acts as a reviews section, so users can see the experiences people have had.
+ 
+![Words from the Team](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+ 
+- __The Footer__
+ 
+ - The footer section includes links to the relevant social media sites, phone number, email address as well as a sign up form for The Ro. The links will open to a new tab to allow easy navigation for the user.
+ - The footer is valuable to the user as it encourages them to keep connected via social media
+ 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
+ 
 - __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
+ 
+ - The gallery will provide the user with supporting images to see what the meet ups look like.
+ - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
+ 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
+ 
 - __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
+ 
+ - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
+ 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
