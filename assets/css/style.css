@@ -130,7 +130,6 @@ section {
 #center-about {
     width: 33%;
     margin:0 auto;
-    background-color: rgb(1, 245, 34);
 }
 
 hr {
@@ -158,4 +157,21 @@ hr {
 
 .right-about-heading p {
     text-align: right;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url(../images/Reasons.png) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
 }
