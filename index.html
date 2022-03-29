@@ -137,14 +137,41 @@
                 <label for="lname">Last Name:</label>
                 <input type="text" id='lname' name="lname" required>
 
-                <label for="position">Position</label>
+                <label for="number">Your age</label>
+        <input type="number" id="number" name="number" step="2" min="16" max="99"/>
+
+                <label for="position">Position(s)</label>
                 <!-- Make a multiple choice Field-->
-                <input type="text" id='lname' name="lname" required>
+                <input type="checkbox" id='position' name="position" required>
+                <div>
+                    <input type="checkbox" id="gk-checkbox" name="goalkeeper">
+                    <label for="goalkeeper-checkbox">Goalkeeper</label>
+                </div>
+        
+                <div>
+                    <input type="checkbox" id="defender-checkbox" name="defender">
+                    <label for="defender-checkbox">Defender</label>
+                </div>
+        
+                <div>
+                    <input type="checkbox" id="midfielder-checkbox" name="midfielder">
+                    <label for="midfielder-checkbox">Nachos</label>
+                </div>
+        
+                <div>
+                    <input type='checkbox'id='croissants-checkbox' name='croissants'>
+                    <label for='croissants-checkbox'>Croissants</label>
+                </div>
+                <div>
+                    <input type='checkbox' name='scones' id='scones-checkbox'>
+                    <label for='scones-checkbox'>Scones</label>
+                 </div>
 
                 <label for="email">Email Address:</label>
                 <input type="email" name="email" id="email" required>
 
-            <input type="submit" value="Send Request">
+            <input type="submit" value="Submit">
+            <input type='reset' value='Clear Form'>
             </fieldset>
     
                 
