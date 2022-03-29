@@ -205,6 +205,10 @@ hr {
 }
 
 /* Form */
+form {
+    display: inline-block;
+    letter-spacing: 2px;
+}
 
 
 /*footer*/
