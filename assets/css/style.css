@@ -177,6 +177,23 @@ hr {
     border-radius: 50%;
 }
 
+#quote, #quote h2 {
+    color: #fff;
+}
+
+#quote {
+    font-size: 130%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 100%;
+    height: 100px;
+    padding-top: 60px;
+    padding-left: 0px;
+    background-color: rgba(233, 13, 10, 0.7);
+    clear: both;
+}
 /* training and match times */
 
 #times {
