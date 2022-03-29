@@ -237,16 +237,35 @@ form {
 input[type=text] {
     width: 70%;
     text-align: center;
+    height: 50px;
+    font-size: 16px
   }
 
   input[type="email"] {
     width: 70%;
     text-align: center;
+    height: 50px;
+    font-size: 16px
   }
 
   input[type=number] {
-    width: 40%;
+    width: 20%;
     text-align:center;
+    height: 50px;
+    font-size: 16px;
+  }
+
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
   }
 
 fieldset p {
@@ -254,16 +273,12 @@ fieldset p {
 }
 
 #position {
-    padding-left: 10px;
+    width: 20%;
+    text-align:center;
+    height: 50px;
+    font-size: 16px;
 }
 
-input[type=button], input[type=submit], input[type=reset] {
-    background-color: #fafafa;
-    border: none;
-    color: #3a3a3a
-
-}
-  
 /*footer*/
 
 footer {
