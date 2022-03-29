@@ -189,17 +189,14 @@ hr {
 }
 
 #quote {
-    font-size: 130%;
+    font-size: 100%;
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     width: 90%;
-    height: 200px;
-    padding-top: 40px;
-    padding-left: 50px;
-    padding-bottom: 20px;
-    background-color: rgba(233, 13, 10, 0.7);
-}
+    height: 300px;
+    padding-left: 20px;
+    background-color: rgba(233, 13, 10, 0.7);}
 /* training and match times */
 #times {
     background-image: url('../images/Schedule.png');
@@ -232,6 +229,13 @@ form {
     letter-spacing: 2px;
 }
 
+fieldset p {
+    padding: 10px;
+}
+
+#position {
+    padding-left: 10px;
+}
 
 /*footer*/
 
