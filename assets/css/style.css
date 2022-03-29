@@ -291,7 +291,7 @@ footer {
         width: inherit;
     }
 
-    .left-about-heading h2, .right-about-heading h2 {
+    .left-about-heading h3, .right-about-heading h3 {
         width: 100%;
         text-align: center;
     }
