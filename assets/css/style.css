@@ -225,10 +225,23 @@ hr {
 
 /* Form */
 form {
-    display: inline-block;
     letter-spacing: 2px;
+    background-color: rgba(233, 13, 10, 0.7);
+    margin: 10px;
+    color: #fafafa;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 10px;
 }
 
+input[type=text] {
+    width: 70%;
+  }
+
+  input[type=number] {
+    width: 40%;
+    text-align:center;
+  }
 fieldset p {
     padding: 10px;
 }
@@ -237,6 +250,16 @@ fieldset p {
     padding-left: 10px;
 }
 
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #fafafa;
+    border: none;
+    color: #3a3a3a
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
 /*footer*/
 
 footer {
