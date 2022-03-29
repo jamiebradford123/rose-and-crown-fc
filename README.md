@@ -31,11 +31,23 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
  
 ![Reasons to Join](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
  
-- __Words from the Team__
+- __Words from the club captain__
  
- - This section provides some words from the team about their experience playing for the Rose and Crown, including a quote from the club founder and the captain. This section acts as a reviews section, so users can see the experiences people have had.
+ - This section provides some words from the club founder and team captain explaining why he founded the team and what it is like playing for the Rose and Crown, providing an insite for users.
  
-![Words from the Team](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Words from the Captain](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+ 
+ - __Schedule__
+ 
+ - This section provides a schedule for when training, socials and matches take place. It provides days of the week, time and location so people can show up to any. 
+ 
+![Schedule](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+
+- __Sign Up form__
+ 
+ - This form will allow the user to get signed up to the Rose and Crown to start their footballing journey with the club. The user will be able specify their name, email, age and the position which they play
+ 
+![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
  
 - __The Footer__
  
@@ -51,11 +63,6 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
  
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
  
-- __The Sign Up Page__
- 
- - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
- 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
