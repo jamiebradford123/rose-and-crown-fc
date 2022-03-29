@@ -109,6 +109,11 @@ h2 {
 
     position: absolute;
 }
+
+/* Intro */
+#intro {
+    padding: 2.5px;
+}
 /* reasons to join */
 
 #reasons-to-join {
@@ -177,6 +182,8 @@ hr {
     border-radius: 50%;
 }
 
+/* quote */
+
 #quote, #quote h2 {
     color: #fff;
 }
@@ -186,20 +193,14 @@ hr {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    width: 100%;
+    width: 90%;
     height: 200px;
     padding-top: 40px;
     padding-left: 50px;
+    padding-bottom: 20px;
     background-color: rgba(233, 13, 10, 0.7);
-    position: absolute;
 }
 /* training and match times */
-
-#schedule-header {
-    
-}
-
-
 #times {
     background-image: url('../images/Schedule.png');
     background-repeat: no-repeat;
