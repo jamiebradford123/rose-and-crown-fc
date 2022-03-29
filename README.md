@@ -58,20 +58,16 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
  
 - __Gallery__
  
- - The gallery will provide the user with supporting images to see what the meet ups look like.
- - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
+ - The gallery will provide the user with supporting images to see what playing for the club looks like. 
  
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
  
 
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
-- Another feature idea
+- Add club photos
+
+- A fixtures and results page which updates with the latest scores so users can see how the team is performing
 
 ## Testing 
 
