@@ -197,6 +197,23 @@ hr {
     height: 300px;
     padding-left: 20px;
     background-color: rgba(233, 13, 10, 0.7);}
+
+/* table */
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    margin-left: 10px;
+}
+
+table, th, td {
+    border: 1px solid;
+    padding: 50px;
+}
+
+table th {
+    padding: 10px;
+}
 /* training and match times */
 #times {
     background-image: url('../images/Schedule.png');
