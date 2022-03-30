@@ -343,8 +343,23 @@ footer {
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
     #reasons-to-join {
-        width: 65%;
+        width: 90%;
         height: 1200px;
+
+    }
+
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h3, .right-about-heading h3 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p, .right-about-heading p {
+        text-align: center;
+        padding: 0 20px;
     }
 
     #welcome {
@@ -379,26 +394,6 @@ footer {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
-    }
-
-    #reasons-to-join {
-        width: 90%;
-        height: 1200px;
-
-    }
-
-    .left-about-heading, .right-about-heading {
-        width: inherit;
-    }
-
-    .left-about-heading h3, .right-about-heading h3 {
-        width: 100%;
-        text-align: center;
-    }
-
-    .left-about-heading p, .right-about-heading p {
-        text-align: center;
-        padding: 0 20px;
     }
 }
 
