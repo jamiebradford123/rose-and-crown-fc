@@ -113,6 +113,7 @@ h2 {
 /* Intro */
 #intro {
     padding: 2.5px;
+    width: 90%;
 }
 /* reasons to join */
 
@@ -218,6 +219,7 @@ table th {
 table img {
     width: 150px;
 }
+
 /* training and match times */
 #times {
     background-image: url('../images/Schedule.png');
@@ -401,5 +403,12 @@ footer {
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
+    }
+    #quote {
+        font-size: 12px;
+        height: 300px;
+    }
+    table img {
+        width: 100px;
     }
 }
