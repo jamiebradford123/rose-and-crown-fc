@@ -208,11 +208,15 @@ table {
 
 table, th, td {
     border: 1px solid;
-    padding: 50px;
+    padding: 30px;
 }
 
 table th {
     padding: 10px;
+}
+
+table img {
+    width: 150px;
 }
 /* training and match times */
 #times {
