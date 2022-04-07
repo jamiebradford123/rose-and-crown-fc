@@ -18,7 +18,8 @@ h1, h2 {
     font-family: Arvo, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: red
+    color: red;
+    margin-left: 20px;
 }
 
 h2 {
@@ -116,7 +117,8 @@ h2 {
 /* Intro */
 #intro {
     margin-bottom: 20px;
-    width: 100%;
+    margin-left: 20px;
+    width:95%;
 }
 /* reasons to join */
 
@@ -210,6 +212,7 @@ table {
     border-collapse: collapse;
    margin-left: auto;
    margin-right: auto;
+   margin-bottom: 50px;
 }
 
 table, th, td {
