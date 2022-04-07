@@ -2,7 +2,7 @@
 
 The Rose and Crown FC is a site that hopes to attract new players who are based in Hertfordshire to join the team. The site will be targeted towards people who enjoy playing football and are looking to play the game as well as socialise and keep fit. The site will provide information regarding the club as well as reasons as to why they should sign up. Contact information will also be provided so those interested can get in touch. 
 
-![Responsice Mockup] (https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Previewsite.png)
+(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Previewsite.png)
 
 ## Features
  
@@ -13,14 +13,15 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Team, Fixtures and Sign Up page and is identical in each page to allow for easy navigation.
  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
  
-![Nav Bar](https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/header.png)
+(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/header.png)
  
-- __The landing page image__
+- __The Landing Page__
  
  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
  - This section introduces the user to The Rose and Crown FC with an eye catching animation to grab their attention
  
-![Landing Page](https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/landing-page.png)
+(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/landing-page.png)
+
 - __Intro to the Club section__
  - Provides a brief overview of key information about the club such as the League they compete in, location, basic training and match details that can allow the user to decide if this club could suit them
  
@@ -29,45 +30,45 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
  - The reasons to join section will allow the user to see the benefits of joining the Rose and Crown, as well as the benefits of playing football overall.
  - This user will see the value of signing up for the Rose and Crown. This should encourage the user to consider playing for the club as their form of exercise and as a social experience.
  
-![Reasons to Join](https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/reasons-to-join.png)
+(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/reasons-to-join.png)
  
 - __Words from the club captain__
  
  - This section provides some words from the club founder and team captain explaining why he founded the team and what it is like playing for the Rose and Crown, providing an insite for users.
  
-![Words from the Captain](https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Quote-captain.png)
+(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Quote-captain.png)
  
  - __Schedule__
  
  - This section provides a schedule for when training, socials and matches take place. It provides days of the week, time and location so people can show up to any. 
+
+ https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Schedule-read.png
 
  - __Table__
 
  -
 
 
- ![Squad-table] (https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Squad-table.png)
- 
-![Schedule](https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Schedule-read.png)
+ (https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Squad-table.png)
 
 - __Sign Up form__
  
  - This form will allow the user to get signed up to the Rose and Crown to start their footballing journey with the club. The user will be able specify their name, email, age and the position which they play
  
-![Sign Up](https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Sign%20up%20forn.png)
+(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Sign%20up%20forn.png)
  
 - __The Footer__
  
  - The footer section includes links to the relevant social media sites, phone number, email address as well as a sign up form for The Ro. The links will open to a new tab to allow easy navigation for the user.
  - The footer is valuable to the user as it encourages them to keep connected via social media
  
-![Footer](https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/FOOTER.png)
+(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/FOOTER.png)
  
 - __Gallery__
  
  - The gallery will provide the user with supporting images to see what playing for the club looks like. 
  
-![Gallery](https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/gallary.png)
+(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/gallary.png)
  
 
 ### Features Left to Implement
