@@ -24,6 +24,7 @@ h1, h2 {
 h2 {
     padding-bottom: 30px;
 }
+
 #logo {
     float: left;
     font-size: 280%;
@@ -114,7 +115,7 @@ h2 {
 
 /* Intro */
 #intro {
-    padding: 5px;
+    margin-bottom: 20px;
     width: 100%;
 }
 /* reasons to join */
@@ -199,6 +200,7 @@ hr {
     width: 90%;
     height: 250px;
     padding-left: 20px;
+    margin-bottom: 20px;
     background-color: rgba(233, 13, 10, 0.7);}
 
 /* table */
@@ -206,7 +208,8 @@ hr {
 table {
     width: 90%;
     border-collapse: collapse;
-    margin-left: 10px;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 table, th, td {
@@ -249,6 +252,9 @@ table img {
 }
 
 /* Form */
+#sign-up-header {
+    margin-top: 20px;
+}
 form {
     letter-spacing: 2px;
     background-color: rgba(233, 13, 10, 0.7);
