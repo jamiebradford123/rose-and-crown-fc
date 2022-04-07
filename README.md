@@ -2,7 +2,7 @@
 
 The Rose and Crown FC is a site that hopes to attract new players who are based in Hertfordshire to join the team. The site will be targeted towards people who enjoy playing football and are looking to play the game as well as socialise and keep fit. The site will provide information regarding the club as well as reasons as to why they should sign up. Contact information will also be provided so those interested can get in touch. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup] i
 
 ## Features
  
