@@ -188,6 +188,14 @@ hr {
     border-radius: 50%;
 }
 
+/* video clip */
+
+#video {
+    width: 95%;
+    height: 800px;
+    padding: 20px
+}
+
 /* quote */
 
 #quote, #quote h2 {
