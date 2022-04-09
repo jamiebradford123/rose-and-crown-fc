@@ -188,14 +188,6 @@ hr {
     border-radius: 50%;
 }
 
-/* video clip */
-
-#video {
-    width: 95%;
-    height: 800px;
-    padding: 40px;
-}
-
 /* quote */
 
 #quote, #quote h2 {
@@ -234,6 +226,7 @@ table th {
 
 table img {
     width: 150px;
+    height: 80px;
 }
 
 /* training and match times */
@@ -401,10 +394,6 @@ footer {
         display: none;
     }
 
-    #video {
-        height: 500px;
-        padding-left: 20px;
-    }
 }
 
     /* For medium screen sizes from 950px wide and down */
