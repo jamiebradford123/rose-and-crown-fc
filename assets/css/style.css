@@ -193,7 +193,7 @@ hr {
 #video {
     width: 95%;
     height: 800px;
-    padding: 20px
+    padding: 40px;
 }
 
 /* quote */
@@ -399,6 +399,11 @@ footer {
 
     hr {
         display: none;
+    }
+
+    #video {
+        height: 500px;
+        padding-left: 20px;
     }
 }
 
