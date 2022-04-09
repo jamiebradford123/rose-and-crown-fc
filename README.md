@@ -37,6 +37,13 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
  - This section provides some words from the club founder and team captain explaining why he founded the team and what it is like playing for the Rose and Crown, providing an insite for users.
  
 (https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Quote-captain.png)
+
+- __Squad__
+
+ - This swection provides users information about who plays for the club, their position and a little information about them so they can see more of the personalities of the players. 
+
+
+ (https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Squad-table.png)
  
  - __Schedule__
  
@@ -44,12 +51,6 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
 
  https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Schedule-read.png
 
- - __Table__
-
- -
-
-
- (https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Squad-table.png)
 
 - __Sign Up form__
  
@@ -73,20 +74,9 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
 
 ### Features Left to Implement
 
-- Add club photos
-
 - A fixtures and results page which updates with the latest scores so users can see how the team is performing
 
 ## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
 
 ### Validator Testing 
 
