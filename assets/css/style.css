@@ -73,7 +73,7 @@ h2 {
 #club-badge {
     height: 600px;
     width: 100%;
-    background: url(../images/roseandcrownlogo.JPG) no-repeat center center;
+    background: url(../images/roseandcrownlogo.webp) no-repeat center center;
 
 /* animates zoom effect on loading page  */
     animation-name: badge-zoom;
@@ -230,7 +230,7 @@ table img {
 
 /* training and match times */
 #times {
-    background-image: url('../images/Schedule.png');
+    background-image: url('../images/schedule.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
