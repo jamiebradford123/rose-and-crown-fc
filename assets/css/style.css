@@ -348,6 +348,11 @@ footer {
     width: 100%;
 }
 
+#video {
+    height:500px;
+    width: 100%;
+}
+
 /* Media Queries*/
 
 /* For larger to medium screens size from 1200px wide and down */
@@ -420,6 +425,14 @@ footer {
         width: 100px;
     }
     #reasons-to-join {
+        width: 100%;
+    }
+    table img {
+        width: 100px;
+        height: 50px;
+    }
+    #video {
+        height: 300px;
         width: 100%;
     }
 }
