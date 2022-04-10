@@ -67,7 +67,7 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
  
 - __Gallery__
  
- - The gallery will provide the user with supporting images to see what playing for the club looks like. 
+ - The gallery will provide the user with supporting images and videos to see what playing for the club looks like. 
  
 (https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/gallary.png)
  
@@ -75,6 +75,7 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
 ### Features Left to Implement
 
 - A fixtures and results page which updates with the latest scores so users can see how the team is performing
+- Add images from the Rose and Crown. Current stock photos and placeholder images and video need replacing to make it relevant to the club
 
 ## Testing 
 
@@ -86,12 +87,10 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
 ### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+- Image formats need to be adjusted to improve website performance. Free softwares had been fully used and could not be used again without purchasing them.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 

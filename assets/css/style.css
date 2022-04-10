@@ -31,7 +31,7 @@ h2 {
     font-size: 280%;
     margin-left: 30px;
 }
-
+/* Nav bar - styling influenced from the LOVE RUNNING project */
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -75,7 +75,7 @@ h2 {
     width: 100%;
     background: url(../images/roseandcrownlogo.webp) no-repeat center center;
 
-/* animates zoom effect on loading page  */
+/* animates zoom effect on loading page, animation taken from the LOVE RUNNING project  */
     animation-name: badge-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -289,7 +289,7 @@ input[type=text] {
     height: 50px;
     font-size: 16px;
   }
-
+/* Submit button taken from https://www.w3schools.com/css/css3_buttons.asp */
   .button {
     background-color: #4CAF50;
     border: none;
