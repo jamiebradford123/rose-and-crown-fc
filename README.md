@@ -2,7 +2,7 @@
 
 The Rose and Crown FC is a site that hopes to attract new players who are based in Hertfordshire to join the team. The site will be targeted towards people who enjoy playing football and are looking to play the game as well as socialise and keep fit. The site will provide information regarding the club as well as reasons as to why they should sign up. Contact information will also be provided so those interested can get in touch. 
 
-(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Previewsite.png)
+![Site image](/assets/images/Previewsite.png)
 
 ## Features
  
@@ -12,8 +12,6 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
  
  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Team, Fixtures and Sign Up page and is identical in each page to allow for easy navigation.
  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
- 
-(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/header.png)
  
 - __The Landing Page__
  
