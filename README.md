@@ -98,7 +98,8 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
 - Image formats need to be adjusted to improve website performance. Free softwares had been fully used and could not be used again without purchasing them.
 
 ## Deployment
-
+- To run the site locally - in the terminal un the following command:
+    - python3 -m http.server
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 

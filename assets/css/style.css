@@ -26,6 +26,10 @@ h2 {
     padding-bottom: 30px;
 }
 
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 #logo {
     float: left;
     font-size: 280%;
@@ -394,6 +398,7 @@ footer {
         float: left;
         padding: 0;
     }
+    
 
     hr {
         display: none;
@@ -434,5 +439,17 @@ footer {
     #video {
         height: 300px;
         width: 100%;
+    }
+    #times div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+    #quote{
+        height: 300px;
+    }
+    #quote-text {
+        font-size: small;
     }
 }
