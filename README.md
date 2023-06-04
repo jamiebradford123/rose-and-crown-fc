@@ -18,7 +18,7 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
  - This section introduces the user to The Rose and Crown FC with an eye catching animation to grab their attention
  
-(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/landing-page.png)
+![Landing Page](/assets/images/landing-page.png)
 
 - __Intro to the Club section__
  - Provides a brief overview of key information about the club such as the League they compete in, location, basic training and match details that can allow the user to decide if this club could suit them
@@ -28,47 +28,45 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
  - The reasons to join section will allow the user to see the benefits of joining the Rose and Crown, as well as the benefits of playing football overall.
  - This user will see the value of signing up for the Rose and Crown. This should encourage the user to consider playing for the club as their form of exercise and as a social experience.
  
-(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/reasons-to-join.png)
+ ![Reasons to join](/assets/images/reasons-to-join.png)
+
  
 - __Words from the club captain__
  
  - This section provides some words from the club founder and team captain explaining why he founded the team and what it is like playing for the Rose and Crown, providing an insite for users.
  
-(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Quote-captain.png)
+ ![Quote](/assets/images/Quote-captain.png)
 
 - __Squad__
 
  - This section provides users information about who plays for the club, their position and a little information about them so they can see more of the personalities of the players. 
 
-
- (https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Squad-table.png)
+![Squad](/assets/images/Squad-table.png)
  
  - __Schedule__
  
  - This section provides a schedule for when training, socials and matches take place. It provides days of the week, time and location so people can show up to any. 
 
- https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Schedule-read.png
-
+![Schedule](/assets/images/Schedule-read.png)
 
 - __Sign Up form__
  
  - This form will allow the user to get signed up to the Rose and Crown to start their footballing journey with the club. The user will be able specify their name, email, age and the position which they play
  
-(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Sign%20up%20forn.png)
- 
+ ![Sign up](/assets/images/Signupform.png)
+
 - __The Footer__
  
  - The footer section includes links to the relevant social media sites, phone number, email address as well as a sign up form for The Ro. The links will open to a new tab to allow easy navigation for the user.
  - The footer is valuable to the user as it encourages them to keep connected via social media
  
-(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/FOOTER.png)
- 
+ ![Landing Page](/assets/images/FOOTER.png)
+
 - __Gallery__
  
  - The gallery will provide the user with supporting images and videos to see what playing for the club looks like. 
  
-(https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/gallary.png)
- 
+ ![Landing Page](/assets/images/gallary.png)
 
 ### Features Left to Implement
 
@@ -80,10 +78,12 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
 ### Lighthouse testing
 -Home Page
   - The home page test results are here. A few adjustments had to be made to increase the performance, such as optimising the images and increasing gaps between sections and text to make the website more accessible
-  https://github.com/jamiebradford123/rose-and-crown-fc/blob/main/assets/images/Lighthouse%20test.png
+
+![Home page lighthouse](/assets/images/Lighthousetest-home.png)
+
 
 -Gallary Page
-  - The results from the Lighthouse tests can be seen here. A large way to improve performance was to change the imge formats. I managed to do this for images on the home page, however to change the image format to a more effienct one required a premium membership, which could not be done. Howeveer over time when more images can be formated correctly to WebP, this gallary page will perform much better. This is what was used to convert the images (https://image.online-convert.com/convert-to-webp)
+  - The results from the Lighthouse tests can be seen here. A large way to improve performance was to change the imge formats. I managed to do this for images on the home page, however to change the image format to a more effienct one required a premium membership, which could not be done. However over time when more images can be formated correctly to WebP, this gallary page will perform much better. This is what was used to convert the images (https://image.online-convert.com/convert-to-webp)
 
 ### Validator Testing 
 
@@ -96,7 +96,7 @@ The Rose and Crown FC is a site that hopes to attract new players who are based 
 - Image formats need to be adjusted to improve website performance. Free softwares had been fully used and could not be used again without purchasing them.
 
 ## Deployment
-- To run the site locally - in the terminal un the following command:
+- To run the site locally - in the terminal run the following command:
     - python3 -m http.server
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
